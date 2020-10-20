@@ -1,5 +1,7 @@
 ## Abstract
 
+- [ ] please use our template
+
 Final Project Plan
 
 •	Title: Big Data Analytics in the National Basketball Association
