@@ -8,7 +8,8 @@ Igue Khaleel, [fa20-523-317](https://github.com/cybertraining-dsc/fa20-523-317/)
 {{% pageinfo %}}
 
 ## Abstract
-
+```
+In the process of adding in report
 Contents
 
 {{< table_of_contents >}}
@@ -16,23 +17,7 @@ Contents
 {{% /pageinfo %}}
 
 **Keywords:** basketball, sports, team, mvp, statistics
-
-
-Final Project Plan
-
-•	Title: Big Data Analytics in the National Basketball Association
-
-•	Team: Working Alone on Project
-
-•	Topic: NBA Basketball and Metrics for MVP (Most Valuable Player)
-
-•	Dataset: https://www.kaggle.com/drgilermo/nba-players-stats#
-
-
-Team
-
-In terms of choosing teams, I think working alone is the best option for me at this moment. Going through the NBA statistics is something that I think one person should be able to reasonably accomplish.
-
+```
 
 ## 1. Introduction
 
@@ -84,7 +69,7 @@ This section will be addressed upon project completion.
 The author would like to thank Dr. Gregor Von Laszewski, Dr. Geoffrey Fox, and the associate instructors in the *FA20-BL-ENGR-E534-11530: Big Data Applications* course (offered in the Fall 2020 semester at Indiana University, Bloomington) for their continued assistance and suggestions with regard to exploring this idea and also for their aid with preparing the various drafts of this article.
 
 
-##7. References
+## 7. References
 
 [^1] : Piyush, NBA Top Players + Deep Learning, Kaggle. https://www.kaggle.com/piyush1912/nba-top-players-deep-learning
 [^2] Justinas Cirtautas, NBA Players, Kaggle. https://www.kaggle.com/justinas/nba-players-data?select=all_seasons.csv
