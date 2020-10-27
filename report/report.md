@@ -2,7 +2,7 @@
 
 - [ ] please follow our template, edit button is wrong
 
-Igue Khaleel[fa20-523-317](https://github.com/cybertraining-dsc/fa20-523-317/), https://github.com/cybertraining-dsc/fa20-523-317/blob/master/report/report.md)
+Igue Khalee l[fa20-523-317](https://github.com/cybertraining-dsc/fa20-523-317/), https://github.com/cybertraining-dsc/fa20-523-317/blob/master/report/report.md)
 
 {{% pageinfo %}}
 
