@@ -8,8 +8,9 @@ Igue Khaleel, [fa20-523-317](https://github.com/cybertraining-dsc/fa20-523-317/)
 {{% pageinfo %}}
 
 ## Abstract
-```
-In the process of adding in report
+
+Missing
+
 Contents
 
 {{< table_of_contents >}}
@@ -17,7 +18,6 @@ Contents
 {{% /pageinfo %}}
 
 **Keywords:** basketball, sports, team, mvp, statistics
-```
 
 ## 1. Introduction
 
@@ -42,20 +42,6 @@ At this moment the current dataset that I’m utilizing consists of all NBA play
 My plan is to take the data and demonstrate through bars and graphs the impacts of these changes from the modern NBA to the classic NBA and the differences that were shown through that. Using Notebook might be needed to get all the data visualized for the report.
 
 
-## 3. Plan of Action
-
-•	Describing the NBA game
-
-There are many individuals who may be aware of basketball but not knowledgeable enough to understand my report. So, I’ll give a little background on the NBA game and how things have transpired in generations.
-
-•	Describing Analytics Impacts
-
-As stated earlier above, I talked about certain points in how certain changes due to analytics have enhanced the game of basketball and how this was spurred through the Golden State Warriors.
-
-•	Demonstrating the Data
-
-To show the impacts of the data, I was planning to compile the data from the different datasets and demonstrate them in graphs and bars for readers to better understand the message I’m trying to display.
-
 ## 4. Inference
 
 This section will be addressed upon project completion.
@@ -68,11 +54,30 @@ This section will be addressed upon project completion.
 
 The author would like to thank Dr. Gregor Von Laszewski, Dr. Geoffrey Fox, and the associate instructors in the *FA20-BL-ENGR-E534-11530: Big Data Applications* course (offered in the Fall 2020 semester at Indiana University, Bloomington) for their continued assistance and suggestions with regard to exploring this idea and also for their aid with preparing the various drafts of this article.
 
+## Plan of Action
+
+- [ ] delete befor e final submission
+
+-	Describing the NBA game
+
+There are many individuals who may be aware of basketball but not knowledgeable enough to understand my report. So, I’ll give a little background on the NBA game and how things have transpired in generations.
+
+-	Describing Analytics Impacts
+
+As stated earlier above, I talked about certain points in how certain changes due to analytics have enhanced the game of basketball and how this was spurred through the Golden State Warriors.
+
+-	Demonstrating the Data
+
+To show the impacts of the data, I was planning to compile the data from the different datasets and demonstrate them in graphs and bars for readers to better understand the message I’m trying to display.
+
+
 
 ## 7. References
 
 [^1] : Piyush, NBA Top Players + Deep Learning, Kaggle. https://www.kaggle.com/piyush1912/nba-top-players-deep-learning
+
 [^2] Justinas Cirtautas, NBA Players, Kaggle. https://www.kaggle.com/justinas/nba-players-data?select=all_seasons.csv
+
 [^3] : Online, N., 2020. NBA History. [online] Nbahoopsonline.com. Available at: https://nbahoopsonline.com/History/#:~:text=The%20NBA%20began%20life%20as,start%20of%20the%20next%20season. [ Accessed 20 October 2020].
 
 
