@@ -1,7 +1,7 @@
 # Big Data Analytics in the National Basketball Association
 
-- [ ] please follow our template, edit button is wrong
-- [ ] your report is included twice in this document
+- [ ] please follow our template from now on
+
 
 Igue Khaleel, [fa20-523-317](https://github.com/cybertraining-dsc/fa20-523-317/),[Edit](https://github.com/cybertraining-dsc/fa20-523-317/blob/master/report/report.md)
 
