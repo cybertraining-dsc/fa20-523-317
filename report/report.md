@@ -27,9 +27,11 @@ For now, the topic that I’m going with revolves around the National Basketball
 
 In addition to the above another interesting topic that can be investigated is the leagues implementation of analytics to determine the way basketball has been played. Countless examples could be shown through small-ball lineups and the transition to heavy amounts of three-point shot attempts that occurred in the league the past five years. The results have been shown as seemingly every year the league breaks their scoring records and a team always breaks offensive records on a yearly basis.
 
-Many individuals attribute Stephen Curry, a 6-3 NBA point guard, to the change in analytics. The year Steph Curry broke through as an All-Star. This was the year that his team the Golden State Warriors broke the former Chicago Bulls record of 72-9. This in big part was due to Steph Curry breaking the 3pt record as well as Golden State adopting the small ball philosophy. This particular year gave birth to the era of analytics because of how dominate those two approaches were.
 
 ## 2. Era of Analytics
+
+
+Many individuals attribute Stephen Curry, a 6-3 NBA point guard, to the change in analytics. The year Steph Curry broke through as an All-Star. This was the year that his team the Golden State Warriors broke the former Chicago Bulls record of 72-9. This in big part was due to Steph Curry breaking the 3pt record as well as Golden State adopting the small ball philosophy. This particular year gave birth to the era of analytics because of how dominate those two approaches were.
 
 This has then inspired teams to introduce analytics departments to measure ways to beat the game and exploit mismatches in defensive schemes and height within players. An example of a team that spearheaded this change in strategy is the Houston Rockets. Their GM(General Manager) Daryl Morey was a MIT graduate who advocated for a team that largley on shot 3's and layups. The science behind this concept was that 33% of 3pt and 50% of 2pt were equivalent. So, Morey decided to construct a team with predominately players who were strictly 3 point shooters with a ball-dominant point guard(James Harden).(Personal Note: Pull up statistics for Houston and show charting to explain the differenes in analytics). 
 
