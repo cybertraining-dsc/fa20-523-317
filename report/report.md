@@ -1,7 +1,8 @@
 # Big Data Analytics in the National Basketball Association
 
 - [ ] please follow our template from now on
-
+- [ ] please follow the citation rules and samples we gave, do not invent your own format.
+- [ ] citations must be before the "." not after 
 
 Igue Khaleel, [fa20-523-317](https://github.com/cybertraining-dsc/fa20-523-317/), [Edit](https://github.com/cybertraining-dsc/fa20-523-317/blob/master/report/report.md)
 
@@ -80,11 +81,11 @@ To show the impacts of the data, I was planning to compile the data from the dif
 
 ## 7. References
 
-[^1] : Piyush, NBA Top Players + Deep Learning, Kaggle. https://www.kaggle.com/piyush1912/nba-top-players-deep-learning
+[^1]: Piyush, NBA Top Players + Deep Learning, Kaggle. https://www.kaggle.com/piyush1912/nba-top-players-deep-learning
 
-[^2] Justinas Cirtautas, NBA Players, Kaggle. https://www.kaggle.com/justinas/nba-players-data?select=all_seasons.csv
+[^2]: Justinas Cirtautas, NBA Players, Kaggle. https://www.kaggle.com/justinas/nba-players-data?select=all_seasons.csv
 
-[^3] : Online, N., 2020. NBA History. [online] Nbahoopsonline.com. Available at: https://nbahoopsonline.com/History/#:~:text=The%20NBA%20began%20life%20as,start%20of%20the%20next%20season. [ Accessed 20 October 2020].
+[^3]: Online, N., 2020. NBA History. [online] Nbahoopsonline.com. Available at: https://nbahoopsonline.com/History/#:~:text=The%20NBA%20began%20life%20as,start%20of%20the%20next%20season. [ Accessed 20 October 2020].
 
 
 
