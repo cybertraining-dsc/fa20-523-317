@@ -29,7 +29,11 @@ In addition to the above another interesting topic that can be investigated is t
 
 Many individuals attribute Stephen Curry, a 6-3 NBA point guard, to the change in analytics. The year Steph Curry broke through as an All-Star. This was the year that his team the Golden State Warriors broke the former Chicago Bulls record of 72-9. This in big part was due to Steph Curry breaking the 3pt record as well as Golden State adopting the small ball philosophy. This particular year gave birth to the era of analytics because of how dominate those two approaches were.
 
-## 2.  Dataset
+## 2. Era of Analytics
+
+This has then inspired teams to introduce analytics departments to measure ways to beat the game and exploit mismatches in defensive schemes and height within players. An example of a team that spearheaded this change in strategy is the Houston Rockets. Their GM(General Manager) Daryl Morey was a MIT graduate who advocated for a team that largley on shot 3's and layups. The science behind this concept was that 33% of 3pt and 50% of 2pt were equivalent. So, Morey decided to construct a team with predominately players who were strictly 3 point shooters with a ball-dominant point guard(James Harden).(Personal Note: Pull up statistics for Houston and show charting to explain the differenes in analytics). 
+
+## 3.  Dataset
 
 The National Basketball Association was first created in the year of 1946 with the name of BAA (Basketball Association of America). However, in 1949 the name was changed to the NBA with a total of 17 teams.[^3] As time progressed the league started picking up steam and more and more teams began to join and it wasn’t until the 90’s that we see the total amount of NBA teams be produced.
 
