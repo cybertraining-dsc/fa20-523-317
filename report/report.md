@@ -1,5 +1,7 @@
 # Big Data Analytics in the National Basketball Association
 
+[![Check Report](https://github.com/cybertraining-dsc/fa20-523-317/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-317/actions)
+
 - [ ] please follow our template from now on
 - [ ] please follow the citation rules and samples we gave, do not invent your own format.
 - [ ] citations must be before the "." not after 
