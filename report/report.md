@@ -12,7 +12,7 @@ Igue Khaleel, [fa20-523-317](https://github.com/cybertraining-dsc/fa20-523-317/)
 
 ## Abstract
 
-Missing
+The National Basketball Association and the deciding factors in understanding how certain awards such as the MVP (Most Valuable Player) and DPOY (Defensive Player of the Year) are awarded is something taht is continuosly researched and predicted. There has been a lot of controversy surrounding this topic as many individuals feel as if storylines and politics are the determinant of who wins these respective awards. In addition to the above another interesting topic that can be investigated is the leagues implementation of analytics to determine the way basketball has been played. Countless examples could be shown through small-ball lineups and the transition to heavy amounts of three-point shot attempts that occurred in the league the past five years. The results have been shown as seemingly every year the league breaks their scoring records and a team always breaks offensive records on a yearly basis.
 
 Contents
 
@@ -24,21 +24,29 @@ Contents
 
 ## 1. Introduction
 
-Topic
+The NBA or National Basketball Associaton is a league that consists of professional basketball players from both national and international spaces of the world. As there are 16 roster spots per team and 32 teams in total, only the very most athletic, skillfull, and colossal individuals are chosen to represent this league. Now, knowing the special skillsets of individual players, the founder of basketball, James Naismith, created positions to maximize these individual players for team success. On the court there are 5 positions : point guard, shooting guard, small forward, power forward, and center. 
 
-For now, the topic that I’m going with revolves around the National Basketball Association and the deciding factors in understanding how certain awards such as the MVP (Most Valuable Player) and DPOY (Defensive Player of the Year) are awarded. There has been a lot of controversy surrounding this topic as many individuals feel as if storylines and politics are the determinant of who wins these respective awards. 
+Starting with the point guard, generally these individuals are the smallest players on the court with an average height around 6'2 tall. With what these player lack in height they make up for in skillset in terms of quickness, passing, agility, ball handling, and natural shooting ability. Point guards are generally looked at to be the floor general of the team and take up the job of setting up the coach's gameplan and teamates. 
 
-In addition to the above another interesting topic that can be investigated is the leagues implementation of analytics to determine the way basketball has been played. Countless examples could be shown through small-ball lineups and the transition to heavy amounts of three-point shot attempts that occurred in the league the past five years. The results have been shown as seemingly every year the league breaks their scoring records and a team always breaks offensive records on a yearly basis.
+The shooting guard is a generally a slightly taller player than the point guard and like the name suggests they are generally the player known for their indiviualisitc shooting prowess whehter if it is beyond the 3 point line or in the mid-range. Shooting guards are known to be positioned in the perimeter(outside the arc) as a partner to the point guard. On occasion, the role of the shooting guard is expanded in the case that the point guard is pressured so the role may be for the shooting guard to be better at defense or a player that can help in the playmaking duties of the point guard. 
 
+The small forward is where things change in terms of roles when comparing to the guards of that were previously mentioned above. They can be considered hybrids in the sense that they can both operate on the perimeter like guards and can go down low like power forwards and centers which will be discussed later. Noramlly with wings(another name for small forward) with an average height around 6'7, there are a plethora of responsibilites in order to be considered effective. The reason for this is because generally speaking, small forwards are the most athletic player on the court. They basically have most the agility and ball handling of guards and most of the physicallity and power of power forwards/centers. Understandibly, there are tasked with big defensive assignments and are usually looked at to be a decent to above-average producer on offense. 
 
+The power forward position is where the physicallity of players matters more. Generally these players are around 6'9 to 6'11 and are heavier than most players. Becuase of this they give up speed and shooting which is why they operate around the free throw line and basket. They are looked at to protect the interior with the center from smaller players and small forwards driving in the lane to the basket.
+
+The center is considered mostly the point guard of the defense of the team. They are generally the anchor that protects the rim primarily and takes up defensive assignemtns and calls. Without a competent center, a team can see their defense take a hit. Along with defense, centers are good options to go to when the team has offensive lulls since the easiest shot to make in the nba is a hook shot or layup and the center operates 3 feet from the basket. Centers generally range from 6'11 to as high as 7'6 in height. On rare occasions you can see 6'9 to 6'10 centers take the court and that is generally because of play-style or above-average defense.  
 ## 2. Era of Analytics
 
+The National Basketball Association is a prevalent league within the United States that continues to not only grow in the sense of continued personell but an increase of cap(cash flow) amongst teams as well. Within the scope of this prosperous cap situation that the NBA has accumulated over the years through merchandising, tickets, and tv deals, teams have found flexibility in the ability to create the optimal situation for whatever version of basketball the General Manager sees fit for the vision of the team. In terms of better understanding how this can be accomplished it is best to understand what spurred this action of finding styles to lead to the best team success. 
 
-Many individuals attribute Stephen Curry, a 6-3 NBA point guard, to the change in analytics. The year Steph Curry broke through as an All-Star. This was the year that his team the Golden State Warriors broke the former Chicago Bulls record of 72-9. This in big part was due to Steph Curry breaking the 3pt record as well as Golden State adopting the small ball philosophy. This particular year gave birth to the era of analytics because of how dominate those two approaches were.
+That particular action is players such as Stephen Curry, a 6-3 NBA point guard, that led to the change in utilizing analytics. The year Steph Curry broke through as an All-Star. This was the year that his team the Golden State Warriors broke the former Chicago Bulls record of 72-9. This in big part was due to Steph Curry breaking the 3pt record as well as Golden State adopting the small ball philosophy. This particular year gave birth to the era of analytics because of how dominate those two approaches were.
 
 This has then inspired teams to introduce analytics departments to measure ways to beat the game and exploit mismatches in defensive schemes and height within players. An example of a team that spearheaded this change in strategy is the Houston Rockets. Their GM(General Manager) Daryl Morey was a MIT graduate who advocated for a team that largley on shot 3's and layups. The science behind this concept was that 33% of 3pt and 50% of 2pt were equivalent. So, Morey decided to construct a team with predominately players who were strictly 3 point shooters with a ball-dominant point guard(James Harden).(Personal Note: Pull up statistics for Houston and show charting to explain the differenes in analytics). 
 
-## 3.  Dataset
+
+## 3. Background Research and Work
+
+## 4.  Dataset
 
 The National Basketball Association was first created in the year of 1946 with the name of BAA (Basketball Association of America). However, in 1949 the name was changed to the NBA with a total of 17 teams.[^3] As time progressed the league started picking up steam and more and more teams began to join and it wasn’t until the 90’s that we see the total amount of NBA teams be produced.
 
