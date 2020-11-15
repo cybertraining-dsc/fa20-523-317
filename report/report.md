@@ -35,7 +35,8 @@ The small forward is where things change in terms of roles when comparing to the
 The power forward position is where the physicallity of players matters more. Generally these players are around 6'9 to 6'11 and are heavier than most players. Becuase of this they give up speed and shooting which is why they operate around the free throw line and basket. They are looked at to protect the interior with the center from smaller players and small forwards driving in the lane to the basket.
 
 The center is considered mostly the point guard of the defense of the team. They are generally the anchor that protects the rim primarily and takes up defensive assignemtns and calls. Without a competent center, a team can see their defense take a hit. Along with defense, centers are good options to go to when the team has offensive lulls since the easiest shot to make in the nba is a hook shot or layup and the center operates 3 feet from the basket. Centers generally range from 6'11 to as high as 7'6 in height. On rare occasions you can see 6'9 to 6'10 centers take the court and that is generally because of play-style or above-average defense.  
-## 2. Era of Analytics
+
+## 3. Era of Analytics
 
 The National Basketball Association is a prevalent league within the United States that continues to not only grow in the sense of continued personell but an increase of cap(cash flow) amongst teams as well. Within the scope of this prosperous cap situation that the NBA has accumulated over the years through merchandising, tickets, and tv deals, teams have found flexibility in the ability to create the optimal situation for whatever version of basketball the General Manager sees fit for the vision of the team. In terms of better understanding how this can be accomplished it is best to understand what spurred this action of finding styles to lead to the best team success. 
 
@@ -43,10 +44,17 @@ That particular action is players such as Stephen Curry, a 6-3 NBA point guard, 
 
 This has then inspired teams to introduce analytics departments to measure ways to beat the game and exploit mismatches in defensive schemes and height within players. An example of a team that spearheaded this change in strategy is the Houston Rockets. Their GM(General Manager) Daryl Morey was a MIT graduate who advocated for a team that largley on shot 3's and layups. The science behind this concept was that 33% of 3pt and 50% of 2pt were equivalent. So, Morey decided to construct a team with predominately players who were strictly 3 point shooters with a ball-dominant point guard(James Harden).(Personal Note: Pull up statistics for Houston and show charting to explain the differenes in analytics). 
 
+## 4. Background Research and Work
 
-## 3. Background Research and Work
 
-## 4.  Dataset
+
+
+## 4. Styles of Play
+
+
+
+
+## 5.  Dataset
 
 The National Basketball Association was first created in the year of 1946 with the name of BAA (Basketball Association of America). However, in 1949 the name was changed to the NBA with a total of 17 teams.[^3] As time progressed the league started picking up steam and more and more teams began to join and it wasn’t until the 90’s that we see the total amount of NBA teams be produced.
 
@@ -59,15 +67,15 @@ At this moment the current dataset that I’m utilizing consists of all NBA play
 My plan is to take the data and demonstrate through bars and graphs the impacts of these changes from the modern NBA to the classic NBA and the differences that were shown through that. Using Notebook might be needed to get all the data visualized for the report.
 
 
-## 4. Inference
+## 6. Inference
 
 This section will be addressed upon project completion.
 
-## 5. Conclusion
+## 7. Conclusion
 
 This section will be addressed upon project completion.
 
-## 6. Acknowledgment
+## 8. Acknowledgment
 
 The author would like to thank Dr. Gregor Von Laszewski, Dr. Geoffrey Fox, and the associate instructors in the *FA20-BL-ENGR-E534-11530: Big Data Applications* course (offered in the Fall 2020 semester at Indiana University, Bloomington) for their continued assistance and suggestions with regard to exploring this idea and also for their aid with preparing the various drafts of this article.
 
@@ -89,7 +97,7 @@ To show the impacts of the data, I was planning to compile the data from the dif
 
 
 
-## 7. References
+## 9. References
 
 [^1]: Piyush, NBA Top Players + Deep Learning, Kaggle. <https://www.kaggle.com/piyush1912/nba-top-players-deep-learning>
 
