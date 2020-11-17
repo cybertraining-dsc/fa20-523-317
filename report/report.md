@@ -12,7 +12,7 @@ Igue Khaleel, [fa20-523-317](https://github.com/cybertraining-dsc/fa20-523-317/)
 
 ## Abstract
 
-The National Basketball Association and the deciding factors in understanding how certain awards such as the MVP (Most Valuable Player) and DPOY (Defensive Player of the Year) are awarded is something taht is continuosly researched and predicted. There has been a lot of controversy surrounding this topic as many individuals feel as if storylines and politics are the determinant of who wins these respective awards. In addition to the above another interesting topic that can be investigated is the leagues implementation of analytics to determine the way basketball has been played. Countless examples could be shown through small-ball lineups and the transition to heavy amounts of three-point shot attempts that occurred in the league the past five years. The results have been shown as seemingly every year the league breaks their scoring records and a team always breaks offensive records on a yearly basis.
+The National Basketball Association and the deciding factors in understanding how certain awards such as the MVP (Most Valuable Player) and DPOY (Defensive Player of the Year) are awarded is something that is continuosly researched and predicted. There has been a lot of controversy surrounding this topic as many individuals feel as if storylines and politics are the determinant of who wins these respective awards. In addition to the above another interesting topic that can be investigated is the leagues implementation of analytics to determine the way basketball has been played. Countless examples could be shown through small-ball lineups and the transition to heavy amounts of three-point shot attempts that occurred in the league the past five years. The results have been shown as seemingly every year the league breaks their scoring records and a team always breaks offensive records on a yearly basis.
 
 Contents
 
@@ -34,18 +34,26 @@ The small forward is where things change in terms of roles when comparing to the
 #### 1.4 Power Forward
 The power forward position is where the physicallity of players matters more. Generally these players are around 6'9 to 6'11 and are heavier than most players. Becuase of this they give up speed and shooting which is why they operate around the free throw line and basket. They are looked at to protect the interior with the center from smaller players and small forwards driving in the lane to the basket.
 #### 1.5 Center
-The center is considered mostly the point guard of the defense of the team. They are generally the anchor that protects the rim primarily and takes up defensive assignemtns and calls. Without a competent center, a team can see their defense take a hit. Along with defense, centers are good options to go to when the team has offensive lulls since the easiest shot to make in the nba is a hook shot or layup and the center operates 3 feet from the basket. Centers generally range from 6'11 to as high as 7'6 in height. On rare occasions you can see 6'9 to 6'10 centers take the court and that is generally because of play-style or above-average defense. 
+The center is considered mostly the point guard of the defense of the team. They are generally the anchor that protects the rim primarily and takes up defensive assignemtns and calls. Without a competent center, a team can see their defense take a hit. Along with defense, centers are good options to go to when the team has offensive lulls since the easiest shot to make in the nba is a hook shot or layup and the center operates 3 feet from the basket. Centers generally range from 6'11 to as high as 7'6 in height. On rare occasions you can see 6'9 to 6'10 centers take the court and that is generally because of play-style or above-average defense.
 
-## 2. Era of Analytics
+## 2. Background Research and Work
+
+In terms of Background work in this topic area it is very generalized. There are a lot of sources of analysis by individuals on what the NBA is doing in terms of implementing analytics to improved the efficiency of gameplanning and gameplay alike. The differences in the work are the approaches used to come to a judgement on how the NBA could best use analytics as well as different perspectives on how analytics changed the landscape of the league.
+
+## 3. Era of Analytics
 
 The National Basketball Association continues to not only grow in the sense of continued personell but an increase of cap(cash flow) amongst teams as well. Within the scope of this prosperous cap situation that the NBA has accumulated over the years through merchandising, tickets, and tv deals, teams have found flexibility in the ability to create the optimal situation for whatever version of basketball the General Manager sees fit for the vision of the team. In terms of better understanding how this can be accomplished it is best to understand what spurred this action of finding styles to lead to the best team success. 
 
 That particular action is players such as Stephen Curry, a 6-3 NBA point guard, that led to the change in utilizing analytics. The year Steph Curry broke through as an MVP, his team; the Golden State Warriors broke the former Chicago Bulls record of 72-9. This in big part was due to Steph Curry breaking the 3pt record as well as Golden State adopting the small ball philosophy. This particular year gave birth to the era of analytics because of how dominate those two approaches were.
 
-#### 2.1 The Houston Rockets
+#### 3.1 The Houston Rockets
 This has then inspired teams to introduce analytics departments to measure ways to beat the game and exploit mismatches in defensive schemes and height within players. An example of a team that spearheaded this change in strategy is the Houston Rockets. Their GM(General Manager) Daryl Morey was a MIT graduate who advocated for a team that primarily shoots three point shots as their main forte[^2]. The science behind this concept was that 33% shooting from the three point line measure to 50% from the two point line respectively. This was in the works in the year of 2017 just two years removed from Steph Curry's three point dominance in his MVP season. In terms of numbers representing the change, the 2018 Houston Rockets attempted approximately 82% of their shot attempts around the three point line and the restricted area(the circle around ~5 feet in diameter surrounding the rim)[^2]. The next best team in that department was eleven percent down at 71% in terms of attempts. In this year, the Rockets won their conference at a record of 65 wins - 17 losses as well as break the NBA record in three pointers attemted and made.
 
-## 3. Background Research and Work
+#### 3.2 Tools
+In order to evaluate these players and acquire the data necessary for analyization, the NBA partnered with a company name STATS to provide the necessary tools for data collection. STATS worked with the NBA by installing six cameras in each basketball arena in order to, "track player and referee movements at 25 frames per second to get the most analytical data for teams and the NBA to analyze[^3]." This is very effective in terms of showing the play-by-play moves of players in a system as well as even how referees move. With players, these tools can serve as a chess board where the coach is able to watch pieces move and can determine where certain positions could be optimized to its maximum efficiency. This allows for film sessions to be more productive and helpful for players to better see where they fit and even improve in. In terms of referees, throughout sports it is known that referees have cost some games due to missed calls or questionable decisions. This technology can help in terms of understanding: 1) how a specific referee calls certain fouls and 2) if there seems to be a number count of fouls depending on what team the referee is reffing historically. Understanding both the tendencies of players and refs alike gives coaching staffs a direction to go in when preparing for opponents on a game-by-game basis. 
+
+#### 3.3 Draft Philosophy
+Another facet of the game that is likewise impacted by the tools and techniques described in 3.2 is the NBA draft. The NBA draft consists a total of 60 players selected in two rounds combined. The general consensus before this analytics era was to choose the best player avaible most of the time. Teams back then usually drafted big men(e.g. forwards and centers) because it was considered a safe pick and known to help your team better in more areas. As time passed, we've seen a shift to more guards that are drafted instead to fit the narrative the analytics presents to teams regarding the best path to success. For example, earlier Stephen Curry was mentioned to be one of the foundational reasons that the analytics movement was largely adapted. The year Curry got drafted, the #1 pick in the draft was Blake Griffin who at the time was considered the best Power Forward in the draft while Curry was drafted at 8th overall and even James Harden of the Houston Rockets was drafted 3rd[^4]. 
 
 
 
@@ -84,6 +92,9 @@ The author would like to thank Dr. Gregor Von Laszewski, Dr. Geoffrey Fox, and t
 
 [^2]: Editor, M., 2020. How NBA Analytics Is Changing Basketball | Merrimack College. [online] Merrimack College Data Science Degrees. Available at: <https://onlinedsa.merrimack.edu/nba-analytics-changing-basketball/> [Accessed 16 November 2020].
 
+[^3]: N. M. Abbas, “NBA Data Analytics: Changing the Game,” Medium, 21-Aug-2019. [Online]. Available: https://towardsdatascience.com/nba-data-analytics-changing-the-game-a9ad59d1f116. [Accessed: 17-Nov-2020]. 
+
+[^4]: C. Ford, “NBA Draft 2009,” ESPN. [Online]. Available: http://www.espn.com/nba/draft2009/index?topId=4279081. [Accessed: 17-Nov-2020]. 
 
 ## Plan of Action
 
