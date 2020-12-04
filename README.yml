@@ -5,8 +5,9 @@ owner:
   hid: "fa20-523-317"
   community: "534"
   semester: "fa20"
-project:
-  title: TBD
-  url: TBD
+report:
+  title: Big Data Analytics in the National Basketball Association
+  url:  https://github.com/cybertraining-dsc/fa20-523-317/blob/main/report/report.md
+  proceedings: https://cybertraining-dsc.github.io/report/fa20-523-317/report/report/
   author:
-    - fa20-523-317
+    - Khaleel Igue, fa20-523-317 
