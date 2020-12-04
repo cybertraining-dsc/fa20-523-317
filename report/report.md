@@ -104,9 +104,9 @@ The author would like to thank Dr. Gregor Von Laszewski, Dr. Geoffrey Fox, and t
 
 [^2]: Editor, M., 2020. How NBA Analytics Is Changing Basketball | Merrimack College. [online] Merrimack College Data Science Degrees. Available at: <https://onlinedsa.merrimack.edu/nba-analytics-changing-basketball/> [Accessed 16 November 2020].
 
-[^3]: N. M. Abbas, “NBA Data Analytics: Changing the Game,” Medium, 21-Aug-2019. [Online]. Available: https://towardsdatascience.com/nba-data-analytics-changing-the-game-a9ad59d1f116. [Accessed: 17-Nov-2020]. 
+[^3]: N. M. Abbas, "NBA Data Analytics: Changing the Game," Medium, 21-Aug-2019. [Online]. Available: <https://towardsdatascience.com/nba-data-analytics-changing-the-game-a9ad59d1f116>. [Accessed: 17-Nov-2020]. 
 
-[^4]: C. Ford, “NBA Draft 2009,” ESPN. [Online]. Available: http://www.espn.com/nba/draft2009/index?topId=4279081. [Accessed: 17-Nov-2020]. 
+[^4]: C. Ford, "NBA Draft 2009," ESPN. [Online]. Available: <http://www.espn.com/nba/draft2009/index?topId=4279081>. [Accessed: 17-Nov-2020]. 
 
 ## Plan of Action
 
@@ -122,7 +122,7 @@ As stated earlier above, I talked about certain points in how certain changes du
 
 -	Demonstrating the Data
 
-To show the impacts of the data, I was planning to compile the data from the different datasets and demonstrate them in graphs and bars for readers to better understand the message I’m trying to display.
+To show the impacts of the data, we are planning to compile the data from the different datasets and demonstrate them in graphs and bars for readers to better understand the message I’m trying to display.
 
 
 
