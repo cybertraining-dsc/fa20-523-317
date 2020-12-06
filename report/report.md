@@ -81,6 +81,15 @@ Other technologies that are being developed and implemented are things like, Cou
 
 ## 5. Algorithims associated with NBA
 
+When it comes to the variety of algorithims used in the National Basketball Association, we will be analyazing the range of algorithims discussed through articles and papers on google scholar. We looked at a total of five algorithims that were commonolu shown to be used of the most searches when it came to predictive and learning analysis within NBA analytics departements and outside agencies. The algorithims as presented are: K-means, Artificial Neural Networks, Linear Regression, Logistic Regression, and Support Vector Machines.
+
+![Dissolved Oxygen level](https://github.com/cybertraining-dsc/fa20-523-317/raw/main/report/images/algorithim.png)
+
+#### 5.1 
+
+
+
+
 
 
 
