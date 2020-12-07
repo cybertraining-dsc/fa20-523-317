@@ -110,7 +110,6 @@ Support Vector Machines are considered to be a very formidable tool when it come
 With Artificial Neural Networks the use of the Multi-Layer Perceptron is prevalent and it is highlighted by the vertices of a group in correlation to input varables and comes out with the output[^11]. This tool according the Beckler is also considered to be, "an adaptive system that changes its structure based on external and internal information flows during the network training phase[^7]. With this, the Artificial Neural Network is considered to be one of the most accurate predictive tools when it comes to basketball and can predict patterns as more data is inputed[^11].
 
 
-
 ## 6. Inference
 
 This section will be addressed upon project completion.
@@ -139,13 +138,13 @@ The author would like to thank Dr. Gregor Von Laszewski, Dr. Geoffrey Fox, and t
 
 [^6]:
 
-[^7]: https://www.mbeckler.org/coursework/2008-2009/10701_report.pdf
+[^7]: M. Beckler and M. Papamichael, “NBA Oracle,” 10701 Report, 2008. [Online]. Available: <https://www.mbeckler.org/coursework/2008-2009/10701_report.pdf>. [Accessed: 06-Dec-2020].  
 
-[^8]: https://randerson112358.medium.com/nba-data-analysis-exploration-9293f311e0e8
+[^8]: R. Anderson, “NBA Data Analysis Using Python &amp; Machine Learning,” Medium, 02-Sep-2020. [Online]. Available: https://randerson112358.medium.com/nba-data-analysis-exploration-9293f311e0e8. [Accessed: 07-Dec-2020]. 
 
-[^9]: https://towardsdatascience.com/learn-linear-regression-using-scikit-learn-and-nba-data-data-science-with-sports-9908b0f6a031
+[^9]: J. P. Hwang, “Learn linear regression using scikit-learn and NBA data: Data science with sports,” Medium, 18-Sep-2020. [Online]. Available: https://towardsdatascience.com/learn-linear-regression-using-scikit-learn-and-nba-data-data-science-with-sports-9908b0f6a031. [Accessed: 07-Dec-2020]. 
 
-[^10]: https://www.mwsug.org/proceedings/2017/AA/MWSUG-2017-AA13.pdf
+[^10]: L. Edmunds, “How Can an NBA Player Be Clutch?: A Logistic Regression Analysis,” Mwsug, 2017. [Online]. Available: https://www.mwsug.org/proceedings/2017/AA/MWSUG-2017-AA13.pdf. [Accessed: 06-Dec-2020]. 
 
 [^11]: http://cs229.stanford.edu/proj2016/report/PerriconeShawSwiechowicz-PredictingResultsforProfessionalBasketballUsingNBAAPIData.pdf
 
