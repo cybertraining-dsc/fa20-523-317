@@ -71,7 +71,6 @@ In order to evaluate these players and acquire the data necessary for analyizati
 
 Another facet of the game that is likewise impacted by the tools and techniques described in 3.2 is the NBA draft. The NBA draft consists a total of 60 players selected in two rounds combined. The general consensus before this analytics era was to choose the best player avaible most of the time. Teams back then usually drafted big men(e.g. forwards and centers) because it was considered a safe pick and known to help your team better in more areas. As time passed, we've seen a shift to more guards that are drafted instead to fit the narrative the analytics presents to teams regarding the best path to success. For example, earlier Stephen Curry was mentioned to be one of the foundational reasons that the analytics movement was largely adapted. The year Curry got drafted, the #1 pick in the draft was Blake Griffin who at the time was considered the best Power Forward in the draft while Curry was drafted at 8th overall and even James Harden of the Houston Rockets was drafted 3rd[^4]. As we fast forward to 2020, both Curry and Harden are looked at as the two best players from their draft class with Curry revolutionizing the three point shot and Harden being the ultimate analytics player with his ability to manipulate the defense and draw free throws from fouls like no player has ever done. As years passed, there has been a shift in drafting players with the mindset of that particular players' potential over fit in the sense that teams look for the best available player that fits the teams system the most efficiently[^4]. An example is the upcoming 2020 NBA draft where there is a question of who will become the #1 and 2 pick respectively. The Golden State Warriors have the 2nd pick in the draft because of a year of injuries for all of their star players. So, they typically aren't looking for a player like most losing teams are doing in the draft. In the eyes of many scouts, some view a player like Lamelo Ball, a 6'7 point guard as the best player or at least second best and others see players like Anthony Edwards(SG), James Wiseman(C) and Deni Advija(SG) as potentially better fits and safer picks. However, for the warriors rumors over social media from notable sources have shown that they aren't interested in drafting Lamelo Ball as he is a point guard and they have Steph Curry already. They instead prefer to choose a Small Forward or Center that can help their defensive potential and style of play. Years ago, that may not have been the case as the best player available would usually come off the board and the team would figure it out after that. Thus, this shows how analytics has not only persuaded teams to change their play styles and system but also the players that come with it whether they are veterans or incoming rookies.
 
-
 ## 4. Background Work and Advanced Analytics in Basketball
 
 Considering how the impacts of how implemented analytics has aided the NBA atmosphere as mentioned above, we look to learn technologies and work that help bring this about. This begins with camera systems that have been implemented by a company named SportVU who've helped bring about change in NBA arenas since 2013 that track player and basketball movement across the arenas[^5]. This system goes further in the analysis of collecting data in the context of individual player statistics being captured as well as their positioning on the court and speed in particular instances.
@@ -82,7 +81,6 @@ This is where algorithims come to play as an algorithim needs a dataset from whi
 
 Other technologies that are being developed and implemented are things like, CourtVision, which is technology that shows the statistics of a player making a shot based on that players' past statistics and position on the court. As the player is moving through the court the numbers change to reflect his efficiency on certain areas on the court based on this. As stated by Marcus Woo, the author of this article, these technologies aren't meant to replace the systems in place but instead are there the help in efficiency and effectiveness[^5]. 
 
-
 ## 5. Algorithims associated with NBA
 
 When it comes to the variety of algorithims used in the National Basketball Association, we will be analyzing the range of algorithims discussed through articles and papers on google scholar. We looked at a total of five algorithims that were commonolu shown to be used of the most searches when it came to predictive and learning analysis within NBA analytics departements and outside agencies. The algorithims as presented are: K-means, Artificial Neural Networks, Linear Regression, Logistic Regression, and Support Vector Machines.
@@ -90,6 +88,8 @@ When it comes to the variety of algorithims used in the National Basketball Asso
 ![Algorithims](https://github.com/cybertraining-dsc/fa20-523-317/blob/main/report/images/algorithims.png)
 
 **Figure 2:** Google Scholar Search Results per Algorthim
+
+#### 5.0 Logistics
 
 Based on Figure 1, it can be seen that Linear Progression was by far the most written on topic within the five algorithims listed above with a total of 11,000 searches. It is followed by the Support Vector Machines with 5,240, Logistic Regression with 4,500, Artificial Neural Networks with 4,300, and K-Means with 1,590 search results.  
 
@@ -113,7 +113,6 @@ Support Vector Machines are considered to be a very formidable tool when it come
 
 With Artificial Neural Networks the use of the Multi-Layer Perceptron is prevalent and it is highlighted by the vertices of a group in correlation to input varables and comes out with the output[^11]. This tool according the Beckler is also considered to be, "an adaptive system that changes its structure based on external and internal information flows during the network training phase[^7]. With this, the Artificial Neural Network is considered to be one of the most accurate predictive tools when it comes to basketball and can predict patterns as more data is inputed[^11].
 
-
 ## 6. Conclusion
 
 As time progresses, we will continue to see the use of analytics as well as the expanision of analytics departments in not only the National Basketball Association but other professional sports as well. The impacts of analytics have been highlighted through recent years as mentioned above with the change to styles of play, and the way coaches approach gameplans before each respective game is played. As Adam Silver, the commissioner of the National Basketball Association stated, "Analytics have become front and center with precisely when players are rested, how many minutes they get, who they’re matched up against[^6]." Through this, Silver explains not only to technical aspect of basketball that analytics supports but the physical aspect which can aid in preventing things like player injuries and rest. Understandibly, this highlights how analytics can help the league now and in the future; especially when more sophisticated machine learning tools and algorithims are produced for this purpose.
@@ -124,7 +123,6 @@ The author would like to thank Dr. Gregor von Laszewski, Dr. Geoffrey Fox, and t
 
 
 ## 8. References
-
 
 [^1]: Online, N., 2020. NBA History. [online] Nbahoopsonline.com. Available at: <https://nbahoopsonline.com/History/#:~:text=The%20NBA%20began%20life%20as,start%20of%20the%20next%20season>. [ Accessed 20 October 2020].
 
