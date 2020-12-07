@@ -89,27 +89,27 @@ When it comes to the variety of algorithims used in the National Basketball Asso
 
 **Figure 2:** Google Scholar Search Results per Algorthim
 
-#### 5.0 Logistics
+## 5.0 Logistics
 
 Based on Figure 1, it can be seen that Linear Progression was by far the most written on topic within the five algorithims listed above with a total of 11,000 searches. It is followed by the Support Vector Machines with 5,240, Logistic Regression with 4,500, Artificial Neural Networks with 4,300, and K-Means with 1,590 search results.  
 
-#### 5.1 K-Means
+## 5.1 K-Means
 
 The first algorithim we'll look at is K-Means which is classified as generally the "clustering algorithim" which takes the form of initializing a single point of k or the mean and organizing the data towards that particular mean[^7]. This is then repeated over and over until the appropriate results are found and compiled. Now as National Basketball Association statistics are inserted this can be used to cluster players together than fit the criteria on certain outcomes of points, rebounds, assists, and blocks. 
 
-#### 5.2 Linear Regression
+## 5.2 Linear Regression
 
 Linear Regression, which is very commonly used in machine learning is very effective as a predictor tool. It works by forming "regression coefficients" that stems from pitting together independent variables which help in predictions within a game[^7]. So, throught the input and output variables taht are presented predictive measurements can be performed to highlight potential productivety. An example is the "Box-Plus-Minus". This was created to show a basketball player's overall court production and effect through their statistics, what position they play on the court and the wins and losses that team incurs because of this[^8]. This was built through linear regression and shows through charts based on statistics how productive a player is or potentially can be given the system and oppurtunities.
 
-#### 5.3 Logistic Regression
+## 5.3 Logistic Regression
 
 Similarly to Linear Regression, Logistic Regression shares a lot of feautures in terms of the formula used for prediction except it utilizes a sigmoid as opposed to a linear function when performing calculations. Weight values are the main form of predictions in whatever form of scenario or situation in which that analyst wants to produce[^7]. An example of this is shown through a logistical regression analysis performed by Oklahoma State University on clutch and non-clutch shots by NBA players. The premise of this is taking the data of an individual player based on their shooting percentages in spots on the floor relative to the distance of the defender on them and using that to figure out the potential of a player making a shot in the clutch(universally known as the last 2 minutes in a close game)[^9]. This then shows how a predictive algorithim can be utilized not only based on solely percentages and efficiences but also with the inclusion of situation on a basketball floor.  
 
-#### 5.4 Support Vector Machines
+## 5.4 Support Vector Machines
 
 Support Vector Machines are considered to be a very formidable tool when it comes to measuring classification issues. This modeled machine creates a decision-making tree that helps in the predictions of basketball games and thus can help coaches form strategies and gameplans around what the model predicts can happen. Additional advantages that come with this tool is its ability to operate in high dimensions, the ability to identify kernels, and its memory efficiency[^11]. The minor issue with this machine is the lack of rule generation but as it is more of an emerging tool overtime this is something that is relatively fixable[^12]. The advantages 
 
-#### 5.5 Artificial Neural Networks
+## 5.5 Artificial Neural Networks
 
 With Artificial Neural Networks the use of the Multi-Layer Perceptron is prevalent and it is highlighted by the vertices of a group in correlation to input varables and comes out with the output[^11]. This tool according the Beckler is also considered to be, "an adaptive system that changes its structure based on external and internal information flows during the network training phase[^7]. With this, the Artificial Neural Network is considered to be one of the most accurate predictive tools when it comes to basketball and can predict patterns as more data is inputed[^11].
 
