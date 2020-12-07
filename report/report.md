@@ -2,7 +2,7 @@
 
 [![Check Report](https://github.com/cybertraining-dsc/fa20-523-317/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-317/actions)
 [![Status](https://github.com/cybertraining-dsc/fa20-523-317/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-317/actions)
-Status: Final, Type: Report
+Status: final, Type: Report
 
 Igue Khaleel, [fa20-523-317](https://github.com/cybertraining-dsc/fa20-523-317/), [Edit](https://github.com/cybertraining-dsc/fa20-523-317/blob/master/report/report.md)
 
