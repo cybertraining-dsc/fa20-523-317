@@ -26,7 +26,11 @@ Contents
 
 ## 1. Introduction
 
-The National Basketball Association was first created in the year of 1946 with the name of BAA (Basketball Association of America). However, in 1949 the name was changed to the NBA with a total of 17 teams[^1]. As time progressed the league started picking up steam and more and more teams began to join and it wasn’t until the 90’s that we see the total amount of NBA teams be produced.This league consists of professional basketball players from both national and international spaces of the world. As there are 16 roster spots per team and 32 teams in total, only the very most athletic, skillfull, and colossal individuals are chosen to represent this league.  Now, knowing the special skillsets of individual players, the founder of basketball, James Naismith, created positions to maximize these individual players for team success. On the court there are 5 positions : point guard, shooting guard, small forward, power forward, and center. 
+The National Basketball Association was first created in the year of 1946 with the name of BAA (Basketball Association of America). However, in 1949 the name was changed to the NBA with a total of 17 teams[^1]. As time progressed the league started picking up steam and more and more teams began to join and it wasn’t until the 90’s that we see the total amount of NBA teams be produced.This league consists of professional basketball players from both national and international spaces of the world. As there are 16 roster spots per team and 32 teams in total, only the very most athletic, skillfull, and colossal individuals are chosen to represent this league.  Now, knowing the special skillsets of individual players, the founder of basketball, James Naismith, created positions to maximize these individual players for team success. On the court there are 5 positions : point guard, shooting guard, small forward, power forward, and center.
+
+![Positions](https://github.com/cybertraining-dsc/fa20-523-317/blob/main/report/images/basketball_positions.png)
+
+**Figure 1:** Positions on the Basketball Court, @ H. Tactics, Typical Player Positions. . 
 
 #### 1.1 Point Guard
 
@@ -70,22 +74,22 @@ Another facet of the game that is likewise impacted by the tools and techniques 
 
 ## 4. Background Work and Advanced Analytics in Basketball
 
-Considering how the impacts of how implemented analytics has aided the NBA atmosphere as mentioned above, we look to learn technologies and work that help bring this about. This begins with camera systems that have been implemented by a company named SportVU who've helped bring about change in NBA arenas since 2013 that track player and basketball movement across the arenas. This system goes further in the analysis of collecting data in the context of individual player statistics being captured as well as their positioning on the court and speed in particular instances.
+Considering how the impacts of how implemented analytics has aided the NBA atmosphere as mentioned above, we look to learn technologies and work that help bring this about. This begins with camera systems that have been implemented by a company named SportVU who've helped bring about change in NBA arenas since 2013 that track player and basketball movement across the arenas[^5]. This system goes further in the analysis of collecting data in the context of individual player statistics being captured as well as their positioning on the court and speed in particular instances.
 
 Thus by capturing the basic statistics such as points, assists, rebounds, steals and blocks. Analytical tools such as Player Efficiency Ratings and Defensive Metrics were better used to analyze players and their individualistic impacts on the basketball court. The impacts of these analytical/computational metrics are represented in many organizations abilities to understand the scope of player's salaries and positioning on the court, who to draft, and helps sports analyst on TV shows such as FS1 and ESPN to easily break down the game of Basketball. 
 
-This is where algorithims come to play as an algorithim needs a dataset from which it can train itself and develop statistical patterns to help in predictive analysis and representation for coaches and teams to utilize respectively. An example of this is show through students named Panna Felsen and Lucy from the University of California Berkely, who are developing a software name Bhostgusters that helped analyze the body positions of players and further the response and movements of a team to certain plays run by the opposition. The end goal of this for coaches to be able to draw up a play on a tablet and see potential conflicts, results, and how opponents may counteract that particular play.
+This is where algorithims come to play as an algorithim needs a dataset from which it can train itself and develop statistical patterns to help in predictive analysis and representation for coaches and teams to utilize respectively. An example of this is show through students named Panna Felsen and Lucy from the University of California Berkely, who are developing a software name Bhostgusters that helped analyze the body positions of players and further the response and movements of a team to certain plays run by the opposition[^5]. The end goal of this for coaches to be able to draw up a play on a tablet and see potential conflicts, results, and how opponents may counteract that particular play.
 
-Other technologies that are being developed and implemented are things like, CourtVision, which is technology that shows the statistics of a player making a shot based on that players' past statistics and position on the court. As the player is moving through the court the numbers change to reflect his efficiency on certain areas on the court based on this. As stated by Marcus Woo, the author of this article, these technologies aren't meant to replace the systems in place but instead are there the help in efficiency and effectiveness. 
+Other technologies that are being developed and implemented are things like, CourtVision, which is technology that shows the statistics of a player making a shot based on that players' past statistics and position on the court. As the player is moving through the court the numbers change to reflect his efficiency on certain areas on the court based on this. As stated by Marcus Woo, the author of this article, these technologies aren't meant to replace the systems in place but instead are there the help in efficiency and effectiveness[^5]. 
 
 
 ## 5. Algorithims associated with NBA
 
-When it comes to the variety of algorithims used in the National Basketball Association, we will be analyazing the range of algorithims discussed through articles and papers on google scholar. We looked at a total of five algorithims that were commonolu shown to be used of the most searches when it came to predictive and learning analysis within NBA analytics departements and outside agencies. The algorithims as presented are: K-means, Artificial Neural Networks, Linear Regression, Logistic Regression, and Support Vector Machines.
+When it comes to the variety of algorithims used in the National Basketball Association, we will be analyzing the range of algorithims discussed through articles and papers on google scholar. We looked at a total of five algorithims that were commonolu shown to be used of the most searches when it came to predictive and learning analysis within NBA analytics departements and outside agencies. The algorithims as presented are: K-means, Artificial Neural Networks, Linear Regression, Logistic Regression, and Support Vector Machines.
 
 ![Algorithims](https://github.com/cybertraining-dsc/fa20-523-317/blob/main/report/images/algorithims.png)
 
-**Figure 1:** Google Scholar Search Results per Algorthim
+**Figure 2:** Google Scholar Search Results per Algorthim
 
 Based on Figure 1, it can be seen that Linear Progression was by far the most written on topic within the five algorithims listed above with a total of 11,000 searches. It is followed by the Support Vector Machines with 5,240, Logistic Regression with 4,500, Artificial Neural Networks with 4,300, and K-Means with 1,590 search results.  
 
@@ -134,20 +138,20 @@ The author would like to thank Dr. Gregor Von Laszewski, Dr. Geoffrey Fox, and t
 
 [^4]: C. Ford, "NBA Draft 2009," ESPN. [Online]. Available: <http://www.espn.com/nba/draft2009/index?topId=4279081>. [Accessed: 17-Nov-2020]. 
 
-[^5]:
+[^5]: M. Woo, “Artificial Intelligence in NBA Basketball,” Inside Science, 21-Dec-2018. [Online]. Available: https://insidescience.org/news/artificial-intelligence-nba-basketball. [Accessed: 07-Dec-2020]. 
 
 [^6]:
 
 [^7]: M. Beckler and M. Papamichael, “NBA Oracle,” 10701 Report, 2008. [Online]. Available: <https://www.mbeckler.org/coursework/2008-2009/10701_report.pdf>. [Accessed: 06-Dec-2020].  
 
-[^8]: R. Anderson, “NBA Data Analysis Using Python &amp; Machine Learning,” Medium, 02-Sep-2020. [Online]. Available: https://randerson112358.medium.com/nba-data-analysis-exploration-9293f311e0e8. [Accessed: 07-Dec-2020]. 
+[^8]: R. Anderson, “NBA Data Analysis Using Python &amp; Machine Learning,” Medium, 02-Sep-2020. [Online]. Available: <https://randerson112358.medium.com/nba-data-analysis-exploration-9293f311e0e8>. [Accessed: 07-Dec-2020]. 
 
-[^9]: J. P. Hwang, “Learn linear regression using scikit-learn and NBA data: Data science with sports,” Medium, 18-Sep-2020. [Online]. Available: https://towardsdatascience.com/learn-linear-regression-using-scikit-learn-and-nba-data-data-science-with-sports-9908b0f6a031. [Accessed: 07-Dec-2020]. 
+[^9]: J. P. Hwang, “Learn linear regression using scikit-learn and NBA data: Data science with sports,” Medium, 18-Sep-2020. [Online]. Available: <https://towardsdatascience.com/learn-linear-regression-using-scikit-learn-and-nba-data-data-science-with-sports-9908b0f6a031>. [Accessed: 07-Dec-2020]. 
 
-[^10]: L. Edmunds, “How Can an NBA Player Be Clutch?: A Logistic Regression Analysis,” Mwsug, 2017. [Online]. Available: https://www.mwsug.org/proceedings/2017/AA/MWSUG-2017-AA13.pdf. [Accessed: 06-Dec-2020]. 
+[^10]: L. Edmunds, “How Can an NBA Player Be Clutch?: A Logistic Regression Analysis,” Mwsug, 2017. [Online]. Available: <https://www.mwsug.org/proceedings/2017/AA/MWSUG-2017-AA13.pdf>. [Accessed: 06-Dec-2020]. 
 
-[^11]: http://cs229.stanford.edu/proj2016/report/PerriconeShawSwiechowicz-PredictingResultsforProfessionalBasketballUsingNBAAPIData.pdf
+[^11]: J. Perricone, I. Shaw, and W. Swie¸chowicz, “Predicting Results for Professional Basketball Using NBA API Data,” Stanford.edu, 2016. [Online]. Available: <http://cs229.stanford.edu/proj2016/report/PerriconeShawSwiechowicz-PredictingResultsforProfessionalBasketballUsingNBAAPIData.pdf>. [Accessed: 06-Dec-2020]. 
 
-[^12]: https://link.springer.com/article/10.1007/s00521-016-2321-9
+[^12]: A. P. B. N. Barakat, J. H. F. L. Breiman, M. T. R. Burbidge, K.-S. S. T. Chen, J. L. R. WW. Cooper, V. N. V. C. Cortes, E. F. M. Hall, J. Holland, R. C. E. J. Kennedy, K. J. Kim, K. H. T. K. Kirchner, J. S. S. P. Kvan, A. C. W. BL. Lee, B. B. D. Martens, J. Mercer, J. K. B. Min, O. B. K. Muata, J. S. L. IS. Oh, P. M. M. M. Pal, J. R. Quinlan, F. P.-C. FJR. Ruiz, W. H. C. JY. Shih, H. M. E. I.-D. MBA. Snousy, P. V. E. Štrumbelj, L. C. FEH. Tay, V. V. S. S. Tripathi, G. Valentini, V. N. Vapnik, G. D. N. Vlastakis, J. N. Wang, E. Y. K. A. Widodo, C. F. H. TA. Zak, and J. S. J. Zhou, “Analyzing basketball games by a support vector machines with decision tree model,” Neural Computing and Applications, 01-Jan-1970. [Online]. Available: <https://link.springer.com/article/10.1007/s00521-016-2321-9>. [Accessed: 07-Dec-2020]. 
 
 
