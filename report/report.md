@@ -90,6 +90,8 @@ When it comes to the variety of algorithims used in the National Basketball Asso
 ![Algorithims](https://github.com/cybertraining-dsc/fa20-523-317/blob/main/report/images/algorithims.png)
 
 **Figure 2:** Google Scholar Search Results per Algorthim
+
+
 Based on Figure 1, it can be seen that Linear Progression was by far the most written on topic within the five algorithims listed above with a total of 11,000 searches. It is followed by the Support Vector Machines with 5,240, Logistic Regression with 4,500, Artificial Neural Networks with 4,300, and K-Means with 1,590 search results.  
 
 #### 5.1 K-Means
@@ -103,6 +105,7 @@ Linear Regression, which is very commonly used in machine learning is very effec
 #### 5.3 Logistic Regression
 
 Similarly to Linear Regression, Logistic Regression shares a lot of feautures in terms of the formula used for prediction except it utilizes a sigmoid as opposed to a linear function when performing calculations. Weight values are the main form of predictions in whatever form of scenario or situation in which that analyst wants to produce[^7]. An example of this is shown through a logistical regression analysis performed by Oklahoma State University on clutch and non-clutch shots by NBA players. The premise of this is taking the data of an individual player based on their shooting percentages in spots on the floor relative to the distance of the defender on them and using that to figure out the potential of a player making a shot in the clutch(universally known as the last 2 minutes in a close game)[^9]. This then shows how a predictive algorithim can be utilized not only based on solely percentages and efficiences but also with the inclusion of situation on a basketball floor.  
+
 #### 5.4 Support Vector Machines
 
 Support Vector Machines are considered to be a very formidable tool when it comes to measuring classification issues. This modeled machine creates a decision-making tree that helps in the predictions of basketball games and thus can help coaches form strategies and gameplans around what the model predicts can happen. Additional advantages that come with this tool is its ability to operate in high dimensions, the ability to identify kernels, and its memory efficiency[^11]. The minor issue with this machine is the lack of rule generation but as it is more of an emerging tool overtime this is something that is relatively fixable[^12]. The advantages 
