@@ -91,7 +91,6 @@ When it comes to the variety of algorithims used in the National Basketball Asso
 
 **Figure 2:** Google Scholar Search Results per Algorthim
 
-
 Based on Figure 1, it can be seen that Linear Progression was by far the most written on topic within the five algorithims listed above with a total of 11,000 searches. It is followed by the Support Vector Machines with 5,240, Logistic Regression with 4,500, Artificial Neural Networks with 4,300, and K-Means with 1,590 search results.  
 
 #### 5.1 K-Means
