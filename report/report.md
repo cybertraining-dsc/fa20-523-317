@@ -2,7 +2,7 @@
 
 [![Check Report](https://github.com/cybertraining-dsc/fa20-523-317/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-317/actions)
 [![Status](https://github.com/cybertraining-dsc/fa20-523-317/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-317/actions)
-Status: in progress, Type: Report
+Status: Final, Type: Report
 
 - [ ] please follow our template from now on
 - [ ] please follow the citation rules and samples we gave, do not invent your own format.
