@@ -114,20 +114,16 @@ Support Vector Machines are considered to be a very formidable tool when it come
 With Artificial Neural Networks the use of the Multi-Layer Perceptron is prevalent and it is highlighted by the vertices of a group in correlation to input varables and comes out with the output[^11]. This tool according the Beckler is also considered to be, "an adaptive system that changes its structure based on external and internal information flows during the network training phase[^7]. With this, the Artificial Neural Network is considered to be one of the most accurate predictive tools when it comes to basketball and can predict patterns as more data is inputed[^11].
 
 
-## 6. Inference
+## 6. Conclusion
 
-This section will be addressed upon project completion.
+As time progresses, we will continue to see the use of analytics as well as the expanision of analytics departments in not only the National Basketball Association but other professional sports as well. The impacts of analytics have been highlighted through recent years as mentioned above with the change to styles of play, and the way coaches approach gameplans before each respective game is played. As Adam Silver, the commissioner of the National Basketball Association stated, "Analytics have become front and center with precisely when players are rested, how many minutes they get, who they’re matched up against[^6]." Through this, Silver explains not only to technical aspect of basketball that analytics supports but the physical aspect which can aid in preventing things like player injuries and rest. Understandibly, this highlights how analytics can help the league now and in the future; especially when more sophisticated machine learning tools and algorithims are produced for this purpose.
+ 
+## 7. Acknowledgment
 
-## 7. Conclusion
-
-This section will be addressed upon project completion.
-
-## 8. Acknowledgment
-
-The author would like to thank Dr. Gregor Von Laszewski, Dr. Geoffrey Fox, and the associate instructors in the *FA20-BL-ENGR-E534-11530: Big Data Applications* course (offered in the Fall 2020 semester at Indiana University, Bloomington) for their continued assistance and suggestions with regard to exploring this idea and also for their aid with preparing the various drafts of this article.
+The author would like to thank Dr. Gregor von Laszewski, Dr. Geoffrey Fox, and the associate instructors in the *FA20-BL-ENGR-E534-11530: Big Data Applications* course (offered in the Fall 2020 semester at Indiana University, Bloomington) for their continued assistance and suggestions with regard to exploring this idea and also for their aid with preparing the various drafts of this article.
 
 
-## 9. References
+## 8. References
 
 
 [^1]: Online, N., 2020. NBA History. [online] Nbahoopsonline.com. Available at: <https://nbahoopsonline.com/History/#:~:text=The%20NBA%20began%20life%20as,start%20of%20the%20next%20season>. [ Accessed 20 October 2020].
@@ -140,7 +136,7 @@ The author would like to thank Dr. Gregor Von Laszewski, Dr. Geoffrey Fox, and t
 
 [^5]: M. Woo, “Artificial Intelligence in NBA Basketball,” Inside Science, 21-Dec-2018. [Online]. Available: https://insidescience.org/news/artificial-intelligence-nba-basketball. [Accessed: 07-Dec-2020]. 
 
-[^6]:
+[^6]: 2017 A. S. M. N. A. Jun 01, “The NBA's Adam Silver: How Analytics Is Transforming Basketball,” Knowledge@Wharton. [Online]. Available: <https://knowledge.wharton.upenn.edu/article/nbas-adam-silver-analytics-transforming-basketball/>. [Accessed: 07-Dec-2020]. 
 
 [^7]: M. Beckler and M. Papamichael, “NBA Oracle,” 10701 Report, 2008. [Online]. Available: <https://www.mbeckler.org/coursework/2008-2009/10701_report.pdf>. [Accessed: 06-Dec-2020].  
 
