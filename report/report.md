@@ -132,7 +132,7 @@ The author would like to thank Dr. Gregor von Laszewski, Dr. Geoffrey Fox, and t
 
 [^4]: C. Ford, "NBA Draft 2009," ESPN. [Online]. Available: <http://www.espn.com/nba/draft2009/index?topId=4279081>. [Accessed: 17-Nov-2020]. 
 
-[^5]: M. Woo, "Artificial Intelligence in NBA Basketball," Inside Science, 21-Dec-2018. [Online]. Available: https://insidescience.org/news/artificial-intelligence-nba-basketball. [Accessed: 07-Dec-2020]. 
+[^5]: M. Woo, "Artificial Intelligence in NBA Basketball," Inside Science, 21-Dec-2018. [Online]. Available: <https://insidescience.org/news/artificial-intelligence-nba-basketball>. [Accessed: 07-Dec-2020]. 
 
 [^6]: 2017 A. S. M. N. A. Jun 01, "The NBA's Adam Silver: How Analytics Is Transforming Basketball," Knowledge@Wharton. [Online]. Available: <https://knowledge.wharton.upenn.edu/article/nbas-adam-silver-analytics-transforming-basketball/>. [Accessed: 07-Dec-2020]. 
 
