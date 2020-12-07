@@ -83,30 +83,48 @@ Other technologies that are being developed and implemented are things like, Cou
 
 When it comes to the variety of algorithims used in the National Basketball Association, we will be analyazing the range of algorithims discussed through articles and papers on google scholar. We looked at a total of five algorithims that were commonolu shown to be used of the most searches when it came to predictive and learning analysis within NBA analytics departements and outside agencies. The algorithims as presented are: K-means, Artificial Neural Networks, Linear Regression, Logistic Regression, and Support Vector Machines.
 
-![Dissolved Oxygen level](https://github.com/cybertraining-dsc/fa20-523-317/raw/main/report/images/algorithim.png)
+![Algorithims](https://github.com/cybertraining-dsc/fa20-523-317/blob/main/report/images/algorithims.png)
 
-#### 5.1 
+**Figure 1:** Google Scholar Search Results per Algorthim
+
+Based on Figure 1, it can be seen that Linear Progression was by far the most written on topic within the five algorithims listed above with a total of 11,000 searches. It is followed by the Support Vector Machines with 5,240, Logistic Regression with 4,500, Artificial Neural Networks with 4,300, and K-Means with 1,590 search results.  
+
+#### 5.1 K-Means
+
+The first algorithim we'll look at is K-Means which is classified as generally the "clustering algorithim" which takes the form of initializing a single point of k or the mean and organizing the data towards that particular mean[^7]. This is then repeated over and over until the appropriate results are found and compiled. Now as National Basketball Association statistics are inserted this can be used to cluster players together than fit the criteria on certain outcomes of points, rebounds, assists, and blocks. 
+
+#### 5.2 Linear Regression
+
+Linear Regression, which is very commonly used in machine learning is very effective as a predictor tool. It works by forming "regression coefficients" that stems from pitting together independent variables which help in predictions within a game[^7]. So, throught the input and output variables taht are presented predictive measurements can be performed to highlight potential productivety. An example is the "Box-Plus-Minus". This was created to show a basketball player's overall court production and effect through their statistics, what position they play on the court and the wins and losses that team incurs because of this[^8]. This was built through linear regression and shows through charts based on statistics how productive a player is or potentially can be given the system and oppurtunities.
+
+#### 5.3 Logistic Regression
+
+Similarly to Linear Regression, Logistic Regression shares a lot of feautures in terms of the formula used for prediction except it utilizes a sigmoid as opposed to a linear function when performing calculations. Weight values are the main form of predictions in whatever form of scenario or situation in which that analyst wants to produce[^7]. An example of this is shown through a logistical regression analysis performed by Oklahoma State University on clutch and non-clutch shots by NBA players. The premise of this is taking the data of an individual player based on their shooting percentages in spots on the floor relative to the distance of the defender on them and using that to figure out the potential of a player making a shot in the clutch(universally known as the last 2 minutes in a close game)[^9]. This then shows how a predictive algorithim can be utilized not only based on solely percentages and efficiences but also with the inclusion of situation on a basketball floor.  
+
+#### 5.4 Support Vector Machines
+
+Support Vector Machines are considered to be a very formidable tool when it comes to measuring classification issues. This modeled machine creates a decision-making tree that helps in the predictions of basketball games and thus can help coaches form strategies and gameplans around what the model predicts can happen. Additional advantages that come with this tool is its ability to operate in high dimensions, the ability to identify kernels, and its memory efficiency[^11]. The minor issue with this machine is the lack of rule generation but as it is more of an emerging tool overtime this is something that is relatively fixable[^12]. The advantages 
+
+#### 5.5 Artificial Neural Networks
+
+With Artificial Neural Networks the use of the Multi-Layer Perceptron is prevalent and it is highlighted by the vertices of a group in correlation to input varables and comes out with the output[^11]. This tool according the Beckler is also considered to be, "an adaptive system that changes its structure based on external and internal information flows during the network training phase[^7]. With this, the Artificial Neural Network is considered to be one of the most accurate predictive tools when it comes to basketball and can predict patterns as more data is inputed[^11].
 
 
 
-
-
-
-
-## 5. Inference
+## 6. Inference
 
 This section will be addressed upon project completion.
 
-## 6. Conclusion
+## 7. Conclusion
 
 This section will be addressed upon project completion.
 
-## 7. Acknowledgment
+## 8. Acknowledgment
 
 The author would like to thank Dr. Gregor Von Laszewski, Dr. Geoffrey Fox, and the associate instructors in the *FA20-BL-ENGR-E534-11530: Big Data Applications* course (offered in the Fall 2020 semester at Indiana University, Bloomington) for their continued assistance and suggestions with regard to exploring this idea and also for their aid with preparing the various drafts of this article.
 
 
-## 8. References
+## 9. References
 
 
 [^1]: Online, N., 2020. NBA History. [online] Nbahoopsonline.com. Available at: <https://nbahoopsonline.com/History/#:~:text=The%20NBA%20began%20life%20as,start%20of%20the%20next%20season>. [ Accessed 20 October 2020].
@@ -117,22 +135,20 @@ The author would like to thank Dr. Gregor Von Laszewski, Dr. Geoffrey Fox, and t
 
 [^4]: C. Ford, "NBA Draft 2009," ESPN. [Online]. Available: <http://www.espn.com/nba/draft2009/index?topId=4279081>. [Accessed: 17-Nov-2020]. 
 
-## Plan of Action
+[^5]:
 
-- [ ] delete befor e final submission
+[^6]:
 
--	Describing the NBA game
+[^7]: https://www.mbeckler.org/coursework/2008-2009/10701_report.pdf
 
-There are many individuals who may be aware of basketball but not knowledgeable enough to understand my report. So, I’ll give a little background on the NBA game and how things have transpired in generations.
+[^8]: https://randerson112358.medium.com/nba-data-analysis-exploration-9293f311e0e8
 
--	Describing Analytics Impacts
+[^9]: https://towardsdatascience.com/learn-linear-regression-using-scikit-learn-and-nba-data-data-science-with-sports-9908b0f6a031
 
-As stated earlier above, I talked about certain points in how certain changes due to analytics have enhanced the game of basketball and how this was spurred through the Golden State Warriors.
+[^10]: https://www.mwsug.org/proceedings/2017/AA/MWSUG-2017-AA13.pdf
 
--	Demonstrating the Data
+[^11]: http://cs229.stanford.edu/proj2016/report/PerriconeShawSwiechowicz-PredictingResultsforProfessionalBasketballUsingNBAAPIData.pdf
 
-To show the impacts of the data, we are planning to compile the data from the different datasets and demonstrate them in graphs and bars for readers to better understand the message I’m trying to display.
-
-
+[^12]: https://link.springer.com/article/10.1007/s00521-016-2321-9
 
 
