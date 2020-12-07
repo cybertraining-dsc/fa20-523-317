@@ -4,10 +4,6 @@
 [![Status](https://github.com/cybertraining-dsc/fa20-523-317/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-317/actions)
 Status: Final, Type: Report
 
-- [ ] please follow our template from now on
-- [ ] please follow the citation rules and samples we gave, do not invent your own format.
-- [ ] citations must be before the "." not after 
-
 Igue Khaleel, [fa20-523-317](https://github.com/cybertraining-dsc/fa20-523-317/), [Edit](https://github.com/cybertraining-dsc/fa20-523-317/blob/master/report/report.md)
 
 {{% pageinfo %}}
