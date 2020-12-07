@@ -79,7 +79,8 @@ Other technologies that are being developed and implemented are things like, Cou
 
 ## 5. Algorithims associated with NBA
 
-When it comes to the variety of algorithims used in the National Basketball Association, we will be analyzing the range of algorithims discussed through articles and papers on google scholar. We looked at a total of five algorithims that were commonolu shown to be used of the most searches when it came to predictive and learning analysis within NBA analytics departements and outside agencies. The algorithims as presented are: K-means, Artificial Neural Networks, Linear Regression, Logistic Regression, and Support Vector Machines. Linear Progression was by far the most written on topic within the five algorithims listed above with a total of 11,000 searches. It is followed by the Support Vector Machines with 5,240, Logistic Regression with 4,500, Artificial Neural Networks with 4,300, and K-Means with 1,590 search results(*all results via google scholar search bar).  
+When it comes to the variety of algorithims used in the National Basketball Association, we will be analyzing
+the range of algorithims discussed through articles and papers on google scholar. We looked at a total of five algorithims that were commonolu shown to be used of the most searches when it came to predictive and learning analysis within NBA analytics departements and outside agencies. The algorithims as presented are: K-means, Artificial Neural Networks, Linear Regression, Logistic Regression, and Support Vector Machines. Linear Progression was by far the most written on topic within the five algorithims listed above with a total of 11,000 searches. It is followed by the Support Vector Machines with 5,240, Logistic Regression with 4,500, Artificial Neural Networks with 4,300, and K-Means with 1,590 search results(*all results via google scholar search bar).  
 
 #### 5.1 K-Means
 
@@ -124,7 +125,7 @@ The author would like to thank Dr. Gregor von Laszewski, Dr. Geoffrey Fox, and t
 
 [^6]: 2017 A. S. M. N. A. Jun 01, "The NBA's Adam Silver: How Analytics Is Transforming Basketball," Knowledge@Wharton. [Online]. Available: <https://knowledge.wharton.upenn.edu/article/nbas-adam-silver-analytics-transforming-basketball/>. [Accessed: 07-Dec-2020]. 
 
-[^7]: M. Beckler and M. Papamichael, "NBA Oracle," 10701 Report, 2008. [Online]. Available: <https://www.mbeckler.org/coursework/2008-2009/10701_report.pdf>. [Accessed: 06-Dec-2020].  
+[^7]: M. Beckler and M. Papamichael, "NBA Oracle," 10701 Report, 2008. [Online]. Available:<https://www.mbeckler.org/coursework/2008-2009/10701_report.pdf>. [Accessed: 06-Dec-2020].  
 
 [^8]: R. Anderson, "NBA Data Analysis Using Python &amp; Machine Learning," Medium, 02-Sep-2020. [Online]. Available: <https://randerson112358.medium.com/nba-data-analysis-exploration-9293f311e0e8>. [Accessed: 07-Dec-2020]. 
 
