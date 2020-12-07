@@ -26,11 +26,7 @@ Contents
 
 ## 1. Introduction
 
-The National Basketball Association was first created in the year of 1946 with the name of BAA (Basketball Association of America). However, in 1949 the name was changed to the NBA with a total of 17 teams[^1]. As time progressed the league started picking up steam and more and more teams began to join and it wasn’t until the 90’s that we see the total amount of NBA teams be produced.This league consists of professional basketball players from both national and international spaces of the world. As there are 16 roster spots per team and 32 teams in total, only the very most athletic, skillfull, and colossal individuals are chosen to represent this league.  Now, knowing the special skillsets of individual players, the founder of basketball, James Naismith, created positions to maximize these individual players for team success. On the court there are 5 positions : point guard, shooting guard, small forward, power forward, and center.
-
-![Positions](https://github.com/cybertraining-dsc/fa20-523-317/blob/main/report/images/basketball_positions.png)
-
-**Figure 1:** Positions on the Basketball Court, @ H. Tactics, Typical Player Positions. . 
+The National Basketball Association was first created in the year of 1946 with the name of BAA (Basketball Association of America). However, in 1949 the name was changed to the NBA with a total of 17 teams[^1]. As time progressed the league started picking up steam and more and more teams began to join and it wasn’t until the 90’s that we see the total amount of NBA teams be produced.This league consists of professional basketball players from both national and international spaces of the world. As there are 16 roster spots per team and 32 teams in total, only the very most athletic, skillfull, and colossal individuals are chosen to represent this league.  Now, knowing the special skillsets of individual players, the founder of basketball, James Naismith, created positions to maximize these individual players for team success. On the court there are 5 positions : point guard, shooting guard, small forward, power forward, and center[^1].
 
 #### 1.1 Point Guard
 
@@ -83,15 +79,7 @@ Other technologies that are being developed and implemented are things like, Cou
 
 ## 5. Algorithims associated with NBA
 
-When it comes to the variety of algorithims used in the National Basketball Association, we will be analyzing the range of algorithims discussed through articles and papers on google scholar. We looked at a total of five algorithims that were commonolu shown to be used of the most searches when it came to predictive and learning analysis within NBA analytics departements and outside agencies. The algorithims as presented are: K-means, Artificial Neural Networks, Linear Regression, Logistic Regression, and Support Vector Machines.
-
-![Algorithims](https://github.com/cybertraining-dsc/fa20-523-317/blob/main/report/images/algorithims.png)
-
-**Figure 2:** Google Scholar Search Results per Algorthim
-
-#### 5.0 Logistics
-
-Based on Figure 1, it can be seen that Linear Progression was by far the most written on topic within the five algorithims listed above with a total of 11,000 searches. It is followed by the Support Vector Machines with 5,240, Logistic Regression with 4,500, Artificial Neural Networks with 4,300, and K-Means with 1,590 search results.  
+When it comes to the variety of algorithims used in the National Basketball Association, we will be analyzing the range of algorithims discussed through articles and papers on google scholar. We looked at a total of five algorithims that were commonolu shown to be used of the most searches when it came to predictive and learning analysis within NBA analytics departements and outside agencies. The algorithims as presented are: K-means, Artificial Neural Networks, Linear Regression, Logistic Regression, and Support Vector Machines. Linear Progression was by far the most written on topic within the five algorithims listed above with a total of 11,000 searches. It is followed by the Support Vector Machines with 5,240, Logistic Regression with 4,500, Artificial Neural Networks with 4,300, and K-Means with 1,590 search results(*all results via google scholar search bar).  
 
 #### 5.1 K-Means
 
