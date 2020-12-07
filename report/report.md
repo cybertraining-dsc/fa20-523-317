@@ -90,7 +90,6 @@ When it comes to the variety of algorithims used in the National Basketball Asso
 ![Algorithims](https://github.com/cybertraining-dsc/fa20-523-317/blob/main/report/images/algorithims.png)
 
 **Figure 2:** Google Scholar Search Results per Algorthim
-
 Based on Figure 1, it can be seen that Linear Progression was by far the most written on topic within the five algorithims listed above with a total of 11,000 searches. It is followed by the Support Vector Machines with 5,240, Logistic Regression with 4,500, Artificial Neural Networks with 4,300, and K-Means with 1,590 search results.  
 
 #### 5.1 K-Means
@@ -104,7 +103,6 @@ Linear Regression, which is very commonly used in machine learning is very effec
 #### 5.3 Logistic Regression
 
 Similarly to Linear Regression, Logistic Regression shares a lot of feautures in terms of the formula used for prediction except it utilizes a sigmoid as opposed to a linear function when performing calculations. Weight values are the main form of predictions in whatever form of scenario or situation in which that analyst wants to produce[^7]. An example of this is shown through a logistical regression analysis performed by Oklahoma State University on clutch and non-clutch shots by NBA players. The premise of this is taking the data of an individual player based on their shooting percentages in spots on the floor relative to the distance of the defender on them and using that to figure out the potential of a player making a shot in the clutch(universally known as the last 2 minutes in a close game)[^9]. This then shows how a predictive algorithim can be utilized not only based on solely percentages and efficiences but also with the inclusion of situation on a basketball floor.  
-
 #### 5.4 Support Vector Machines
 
 Support Vector Machines are considered to be a very formidable tool when it comes to measuring classification issues. This modeled machine creates a decision-making tree that helps in the predictions of basketball games and thus can help coaches form strategies and gameplans around what the model predicts can happen. Additional advantages that come with this tool is its ability to operate in high dimensions, the ability to identify kernels, and its memory efficiency[^11]. The minor issue with this machine is the lack of rule generation but as it is more of an emerging tool overtime this is something that is relatively fixable[^12]. The advantages 
@@ -134,20 +132,20 @@ The author would like to thank Dr. Gregor von Laszewski, Dr. Geoffrey Fox, and t
 
 [^4]: C. Ford, "NBA Draft 2009," ESPN. [Online]. Available: <http://www.espn.com/nba/draft2009/index?topId=4279081>. [Accessed: 17-Nov-2020]. 
 
-[^5]: M. Woo, “Artificial Intelligence in NBA Basketball,” Inside Science, 21-Dec-2018. [Online]. Available: https://insidescience.org/news/artificial-intelligence-nba-basketball. [Accessed: 07-Dec-2020]. 
+[^5]: M. Woo, "Artificial Intelligence in NBA Basketball," Inside Science, 21-Dec-2018. [Online]. Available: https://insidescience.org/news/artificial-intelligence-nba-basketball. [Accessed: 07-Dec-2020]. 
 
-[^6]: 2017 A. S. M. N. A. Jun 01, “The NBA's Adam Silver: How Analytics Is Transforming Basketball,” Knowledge@Wharton. [Online]. Available: <https://knowledge.wharton.upenn.edu/article/nbas-adam-silver-analytics-transforming-basketball/>. [Accessed: 07-Dec-2020]. 
+[^6]: 2017 A. S. M. N. A. Jun 01, "The NBA's Adam Silver: How Analytics Is Transforming Basketball," Knowledge@Wharton. [Online]. Available: <https://knowledge.wharton.upenn.edu/article/nbas-adam-silver-analytics-transforming-basketball/>. [Accessed: 07-Dec-2020]. 
 
-[^7]: M. Beckler and M. Papamichael, “NBA Oracle,” 10701 Report, 2008. [Online]. Available: <https://www.mbeckler.org/coursework/2008-2009/10701_report.pdf>. [Accessed: 06-Dec-2020].  
+[^7]: M. Beckler and M. Papamichael, "NBA Oracle," 10701 Report, 2008. [Online]. Available: <https://www.mbeckler.org/coursework/2008-2009/10701_report.pdf>. [Accessed: 06-Dec-2020].  
 
-[^8]: R. Anderson, “NBA Data Analysis Using Python &amp; Machine Learning,” Medium, 02-Sep-2020. [Online]. Available: <https://randerson112358.medium.com/nba-data-analysis-exploration-9293f311e0e8>. [Accessed: 07-Dec-2020]. 
+[^8]: R. Anderson, "NBA Data Analysis Using Python &amp; Machine Learning," Medium, 02-Sep-2020. [Online]. Available: <https://randerson112358.medium.com/nba-data-analysis-exploration-9293f311e0e8>. [Accessed: 07-Dec-2020]. 
 
-[^9]: J. P. Hwang, “Learn linear regression using scikit-learn and NBA data: Data science with sports,” Medium, 18-Sep-2020. [Online]. Available: <https://towardsdatascience.com/learn-linear-regression-using-scikit-learn-and-nba-data-data-science-with-sports-9908b0f6a031>. [Accessed: 07-Dec-2020]. 
+[^9]: J. P. Hwang, "Learn linear regression using scikit-learn and NBA data: Data science with sports," Medium, 18-Sep-2020. [Online]. Available: <https://towardsdatascience.com/learn-linear-regression-using-scikit-learn-and-nba-data-data-science-with-sports-9908b0f6a031>. [Accessed: 07-Dec-2020]. 
 
-[^10]: L. Edmunds, “How Can an NBA Player Be Clutch?: A Logistic Regression Analysis,” Mwsug, 2017. [Online]. Available: <https://www.mwsug.org/proceedings/2017/AA/MWSUG-2017-AA13.pdf>. [Accessed: 06-Dec-2020]. 
+[^10]: L. Edmunds, "How Can an NBA Player Be Clutch?: A Logistic Regression Analysis," Mwsug, 2017. [Online]. Available: <https://www.mwsug.org/proceedings/2017/AA/MWSUG-2017-AA13.pdf>. [Accessed: 06-Dec-2020]. 
 
-[^11]: J. Perricone, I. Shaw, and W. Swie¸chowicz, “Predicting Results for Professional Basketball Using NBA API Data,” Stanford.edu, 2016. [Online]. Available: <http://cs229.stanford.edu/proj2016/report/PerriconeShawSwiechowicz-PredictingResultsforProfessionalBasketballUsingNBAAPIData.pdf>. [Accessed: 06-Dec-2020]. 
+[^11]: J. Perricone, I. Shaw, and W. Swie¸chowicz, "Predicting Results for Professional Basketball Using NBA API Data," Stanford.edu, 2016. [Online]. Available: <http://cs229.stanford.edu/proj2016/report/PerriconeShawSwiechowicz-PredictingResultsforProfessionalBasketballUsingNBAAPIData.pdf>. [Accessed: 06-Dec-2020]. 
 
-[^12]: A. P. B. N. Barakat, J. H. F. L. Breiman, M. T. R. Burbidge, K.-S. S. T. Chen, J. L. R. WW. Cooper, V. N. V. C. Cortes, E. F. M. Hall, J. Holland, R. C. E. J. Kennedy, K. J. Kim, K. H. T. K. Kirchner, J. S. S. P. Kvan, A. C. W. BL. Lee, B. B. D. Martens, J. Mercer, J. K. B. Min, O. B. K. Muata, J. S. L. IS. Oh, P. M. M. M. Pal, J. R. Quinlan, F. P.-C. FJR. Ruiz, W. H. C. JY. Shih, H. M. E. I.-D. MBA. Snousy, P. V. E. Štrumbelj, L. C. FEH. Tay, V. V. S. S. Tripathi, G. Valentini, V. N. Vapnik, G. D. N. Vlastakis, J. N. Wang, E. Y. K. A. Widodo, C. F. H. TA. Zak, and J. S. J. Zhou, “Analyzing basketball games by a support vector machines with decision tree model,” Neural Computing and Applications, 01-Jan-1970. [Online]. Available: <https://link.springer.com/article/10.1007/s00521-016-2321-9>. [Accessed: 07-Dec-2020]. 
+[^12]: A. P. B. N. Barakat, J. H. F. L. Breiman, M. T. R. Burbidge, K.-S. S. T. Chen, J. L. R. WW. Cooper, V. N. V. C. Cortes, E. F. M. Hall, J. Holland, R. C. E. J. Kennedy, K. J. Kim, K. H. T. K. Kirchner, J. S. S. P. Kvan, A. C. W. BL. Lee, B. B. D. Martens, J. Mercer, J. K. B. Min, O. B. K. Muata, J. S. L. IS. Oh, P. M. M. M. Pal, J. R. Quinlan, F. P.-C. FJR. Ruiz, W. H. C. JY. Shih, H. M. E. I.-D. MBA. Snousy, P. V. E. Štrumbelj, L. C. FEH. Tay, V. V. S. S. Tripathi, G. Valentini, V. N. Vapnik, G. D. N. Vlastakis, J. N. Wang, E. Y. K. A. Widodo, C. F. H. TA. Zak, and J. S. J. Zhou, "Analyzing basketball games by a support vector machines with decision tree model," Neural Computing and Applications, 01-Jan-1970. [Online]. Available: <https://link.springer.com/article/10.1007/s00521-016-2321-9>. [Accessed: 07-Dec-2020]. 
 
 
