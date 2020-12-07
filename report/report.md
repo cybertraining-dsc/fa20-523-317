@@ -125,7 +125,7 @@ The author would like to thank Dr. Gregor von Laszewski, Dr. Geoffrey Fox, and t
 
 [^6]: 2017 A. S. M. N. A. Jun 01, "The NBA's Adam Silver: How Analytics Is Transforming Basketball," Knowledge@Wharton. [Online]. Available: <https://knowledge.wharton.upenn.edu/article/nbas-adam-silver-analytics-transforming-basketball/>. [Accessed: 07-Dec-2020]. 
 
-[^7]: M. Beckler and M. Papamichael, "NBA Oracle," 10701 Report, 2008. [Online]. Available:<https://www.mbeckler.org/coursework/2008-2009/10701_report.pdf>. [Accessed: 06-Dec-2020].  
+[^7]: M. Beckler and M. Papamichael, "NBA Oracle," 10701 Report, 2008. [Online]. Available: <https://www.mbeckler.org/coursework/2008-2009/10701_report.pdf>. [Accessed: 06-Dec-2020].
 
 [^8]: R. Anderson, "NBA Data Analysis Using Python &amp; Machine Learning," Medium, 02-Sep-2020. [Online]. Available: <https://randerson112358.medium.com/nba-data-analysis-exploration-9293f311e0e8>. [Accessed: 07-Dec-2020]. 
 
