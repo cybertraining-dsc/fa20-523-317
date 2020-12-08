@@ -101,7 +101,7 @@ Support Vector Machines are considered to be a very formidable tool when it come
 
 #### 5.5 Artificial Neural Networks
 
-With Artificial Neural Networks the use of the Multi-Layer Perceptron is prevalent and it is highlighted by the vertices of a group in correlation to input varables and comes out with the output[^11]. This tool according the Beckler is also considered to be, "an adaptive system that changes its structure based on external and internal information flows during the network training phase[^7]". With this, the Artificial Neural Network is considered to be one of the most accurate predictive tools when it comes to basketball and can predict patterns as more data is inputed[^11].
+With Artificial Neural Networks the use of the Multi-Layer Perceptron is prevalent and it is highlighted by the vertices of a group in correlation to input varables and comes out with the output[^11]. This tool according the Beckler is also considered to be, "an adaptive system that changes its structure based on external and internal information flows during the network training phase"[^7]. With this, the Artificial Neural Network is considered to be one of the most accurate predictive tools when it comes to basketball and can predict patterns as more data is inputed[^11].
 
 ## 6. Conclusion
 
