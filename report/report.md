@@ -46,7 +46,7 @@ The center is considered mostly the point guard of the defense of the team. They
 
 ## 2. Era of Analytics
 
-The National Basketball Association continues to not only grow in the sense of continued personell but an increase of cap(cash flow) amongst teams as well. Within the scope of this prosperous cap situation that the NBA has accumulated over the years through merchandising, tickets, and tv deals, teams have found flexibility in the ability to create the optimal situation for whatever version of basketball the General Manager sees fit for the vision of the team. In terms of better understanding how this can be accomplished it is best to understand what spurred this action of finding styles to lead to the best team success. 
+The National Basketball Association continues to not only grow in the sense of continued personnel but an increase of cap(cash flow) amongst teams as well. Within the scope of this prosperous cap situation that the NBA has accumulated over the years through merchandising, tickets, and tv deals, teams have found flexibility in the ability to create the optimal situation for whatever version of basketball the General Manager sees fit for the vision of the team. In terms of better understanding how this can be accomplished it is best to understand what spurred this action of finding styles to lead to the best team success. 
 
 That particular action is players such as Stephen Curry, a 6-3 NBA point guard, that led to the change in utilizing analytics. The year Steph Curry broke through as an MVP, his team; the Golden State Warriors broke the former Chicago Bulls record of 72-9. This in big part was due to Steph Curry breaking the 3pt record as well as Golden State adopting the small ball philosophy. This particular year gave birth to the era of analytics because of how dominate those two approaches were.
 
@@ -78,7 +78,7 @@ When it comes to the variety of algorithims used in the National Basketball Asso
 the range of algorithims discussed through articles and papers on google scholar. We looked at a total of five
 algorithims that were commonolu shown to be used of the most searches when it came to predictive and learning
 analysis within NBA analytics departements and outside agencies. The algorithims as presented are: K-means,
-Artificial Neural Networks, Linear Regression, Logistic Regression, and Support Vector Machines. Linear
+Artificial Neural Networks, Linear Regression, Logistic Regression, and Support Vector Machines[^7]. Linear
 Progression was by far the most written on topic within the five algorithims listed above with a total of 11,000
 searches. It is followed by the Support Vector Machines with 5,240, Logistic Regression with 4,500, Artificial
 Neural Networks with 4,300, and K-Means with 1,590 search results(*all results via google scholar search bar).
