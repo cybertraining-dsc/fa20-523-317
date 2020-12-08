@@ -10,7 +10,7 @@ Igue Khaleel, [fa20-523-317](https://github.com/cybertraining-dsc/fa20-523-317/)
 
 ## Abstract
 
-The National Basketball Association and the deciding factors in understanding how certain awards such as the MVP (Most Valuable Player) and DPOY (Defensive Player of the Year) are awarded is something that is continuosly researched and predicted. There has been a lot of controversy surrounding this topic as many individuals feel as if storylines and politics are the determinant of who wins these respective awards. In addition to the above another interesting topic that can be investigated is the leagues implementation of analytics to determine the way basketball has been played. Countless examples could be shown through small-ball lineups and the transition to heavy amounts of three-point shot attempts that occurred in the league the past five years. The results have been shown as seemingly every year the league breaks their scoring records and a team always breaks offensive records on a yearly basis.
+The National Basketball Association and the deciding factors in understanding how the game should be played in terms of coaching styles, positions of players, and understanding the efficiencies of shooting certain shots is something that is prevalent in why analytics is used. Analytics is a topic space within basketball that has been growing and emerging as something that can make a big difference in the outcomes of gameplay. With the small analytic departments that have been incorporated within teams, results have already started coming in with the teams that use the analytics showing more advantages and dominance over opponents who don't. We will analyze positions on the court of players and how big data and analytics can further take those positions and their game statistics and transform them into useful strategies against opponents.
 
 Contents
 
@@ -18,7 +18,7 @@ Contents
 
 {{% /pageinfo %}}
 
-**Keywords:** basketball, sports, team, mvp, statistics
+**Keywords:** basketball, sports, team, analytics , statistics, positions
 
 ## 1. Introduction
 
