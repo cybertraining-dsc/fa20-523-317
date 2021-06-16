@@ -1,4 +1,14 @@
-# Big Data Analytics in the National Basketball Association
+---
+date: 2021-03-15
+title: Big Data Analytics in the National Basketball Association
+linkTitle: Basketball
+tags: ["report", "ai", "sports"]
+description: Report on Big Data Analytics in the National Basketball Association
+author: Igue Khaleel
+resources:
+- src: "**.{png,jpg}"
+  title: "Image #:counter"
+---
 
 [![Check Report](https://github.com/cybertraining-dsc/fa20-523-317/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-317/actions)
 [![Status](https://github.com/cybertraining-dsc/fa20-523-317/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-317/actions)
