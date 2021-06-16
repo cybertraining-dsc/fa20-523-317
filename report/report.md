@@ -3,7 +3,7 @@ date: 2021-03-15
 title: Big Data Analytics in the National Basketball Association
 linkTitle: Basketball
 tags: ["report", "ai", "sports"]
-description: Report on Big Data Analytics in the National Basketball Association
+description: "The National Basketball Association and the deciding factors in understanding how the game should be played in terms of coaching styles, positions of players, and understanding the efficiencies of shooting certain shots is something that is prevalent in why analytics is used. Analytics is a topic space within basketball that has been growing and emerging as something that can make a big difference in the outcomes of gameplay. With the small analytic departments that have been incorporated within teams, results have already started coming in with the teams that use the analytics showing more advantages and dominance over opponents who don't. We will analyze positions on the court of players and how big data and analytics can further take those positions and their game statistics and transform them into useful strategies against opponents."
 author: Igue Khaleel
 resources:
 - src: "**.{png,jpg}"
